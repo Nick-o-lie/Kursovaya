@@ -1,0 +1,33 @@
+﻿  MyForm.cpp
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(84,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(85,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(87,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(91,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(92,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(93,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(101,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(102,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(104,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(115,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(116,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(120,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(121,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(123,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(130,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(131,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(132,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(141,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(142,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(144,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(146,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(147,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(149,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(388,82): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(413,82): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(559,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(592,88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(592,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(593,150): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ikkin\source\repos\Kursovaya\MyForm.cpp(593,125): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Diagram.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kursovaya.vcxproj -> C:\Users\ikkin\source\repos\Kursovaya\x64\Debug\Kursovaya.exe
